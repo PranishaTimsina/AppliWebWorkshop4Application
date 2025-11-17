@@ -2,3 +2,20 @@
 .bash
 .vs/
 *.vsidx
+# .NET build outputs
+bin/
+obj/
+
+# IDE files
+.vs/
+.idea/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project specific
+/Workshop
+/Scratches and Consoles/
